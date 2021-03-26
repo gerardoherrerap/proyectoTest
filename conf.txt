@@ -1,1 +1,2 @@
 locate.root=C:/
+test=1
